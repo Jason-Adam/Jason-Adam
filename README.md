@@ -9,7 +9,11 @@ I'm a Machine Learning Engineer / Software Engineer based in Scottsdale, AZ. I l
 
 ### Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-
+- [DICOM Processing](http://jason-adam.github.io/dicom/)
+- [Convolutional Neural Networks](http://jason-adam.github.io/convolutions/)
+- [ResNet-50 API](http://jason-adam.github.io/resnet50/)
+- [Github Actions](http://jason-adam.github.io/github-actions/)
+- [Hash Tables](http://jason-adam.github.io/hash-tables/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jason-r-adam/) or visit my [website](https://jason-adam.github.io/).
