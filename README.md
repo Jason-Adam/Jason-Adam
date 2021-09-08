@@ -1,6 +1,4 @@
 ## Hello there 👋, I'm Jason Adam
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jason-adam.jason-adam)
-[![GitHub followers](https://img.shields.io/github/followers/jason-adam.svg?style=social&label=Follow)](https://github.com/jason-adam?tab=followers)
 
 I'm a Software Engineer based in Scottsdale, AZ. I love to nerd out on all things ML, DL, and Software Development.  
 
