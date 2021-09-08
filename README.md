@@ -1,11 +1,11 @@
-## Hello there 👋, I'm Jason Adam
+## Hello there, I'm Jason Adam
 
 I'm a Software Engineer based in Scottsdale, AZ. I love to nerd out on all things ML, DL, and Software Development.  
 
 ### Current Items of Focus & Study  
-* Computer Vision (specifically object detection and transfer learning). 
+* Database Internals. 
 * Data Structures & Algorithms. 
-* Distributed Systems / Systems Engineering. 
+* Distributed Systems / System Design. 
 
 ### Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
